@@ -2,5 +2,5 @@ image: "bradrydzewski/node:0.8"
 
 deploy:
   ssh:
-    target: jaffa
+    target: "estrai@jaffa.estrai.com:69"
     cmd: "touch /tmp/test"
