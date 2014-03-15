@@ -1,4 +1,4 @@
-image: "node:0.8"
+image: "bradrydzewski/node:0.8"
 
 deploy:
   ssh:
