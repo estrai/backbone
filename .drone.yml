@@ -1,4 +1,5 @@
 image: "node:0.8"
+
 deploy:
   ssh:
     target: jaffa
