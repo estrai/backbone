@@ -1,0 +1,4 @@
+deploy:
+  ssh:
+    target: jaffa
+    cmd: "touch /tmp/test"
